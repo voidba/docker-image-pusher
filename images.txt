@@ -1,2 +1,2 @@
-jenkins/jenkins:2.439
 redis:6.2
+nginx:1.25.1
