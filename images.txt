@@ -1,6 +1,6 @@
 redis:6.2
 nginx:1.25.1
 kafka:3.7.0
-elasticsearch:7.9.3
-logstash:7.9.3
-kibana:7.9.3
+elasticsearch:latest
+logstash:latest
+kibana:latest
