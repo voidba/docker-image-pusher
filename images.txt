@@ -2,3 +2,4 @@ redis:6.2
 nginx:1.25.1
 portainer/portainer:latest
 gitlab/gitlab-ce:17.0.0-ce.0
+gitlab/gitlab-runner:v17.1.1
